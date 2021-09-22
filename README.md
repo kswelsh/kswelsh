@@ -4,7 +4,7 @@
 About Me <br />
 :books: Senior at North Central College <br />
 :bar_chart: Intrested in Data Science, Database Systems, and Mobile App Development <br />
-- Primarly codes in C++/C <br />
+:computer: Primarly codes in C++/C <br />
 
 
 ## Links
