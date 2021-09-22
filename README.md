@@ -1,7 +1,8 @@
 <h1 align="center">Kyle S. Welsh</h1>
 
 <p align="center">North Central College</p>
-About Me <br />
+
+## About Me
 :books: Senior at North Central College <br />
 :bar_chart: Intrested in Data Science, Database Systems, and Mobile App Development <br />
 :computer: Primarly codes in C++/C <br />
