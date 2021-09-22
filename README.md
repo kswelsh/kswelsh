@@ -6,6 +6,7 @@
 ## Links
 
 - [gameCodeShowcase Repo](https://github.com/kswelsh/gameCodeShowcase "gameCodeShowcase Repo")
+A small game to showcase C++ skills and object oriented programming.
   
 ## Stats
 ![kswelsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kswelsh&count_private=true)
