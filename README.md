@@ -5,7 +5,7 @@
 
 ## Links
 
-- [gameCodeShowcase Repo](https://github.com/kswelsh/gameCodeShowcase "gameCodeShowcase Repo") <br />
+[gameCodeShowcase Repo](https://github.com/kswelsh/gameCodeShowcase "gameCodeShowcase Repo") <br />
 A small game to showcase C++ skills and object oriented programming.
   
 ## Stats
