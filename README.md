@@ -9,7 +9,7 @@
 A small game to showcase C++ skills and object oriented programming. <br />
 
 [compilerAssignmentPartOne](https://github.com/kswelsh/compilerAssignmentPartOne "compilerAssignmentPartOne Repo") <br />
-A simulated lexical analyzer. <br />
+A simulated lexical analyzer, which can also be known as the scanner. <br />
 
 [compilerAssignmentPartTwo](https://github.com/kswelsh/compilerAssignmentPartTwo "compilerAssignmentPartTwo Repo") <br />
 A simulated syntax analyzer. <br />
