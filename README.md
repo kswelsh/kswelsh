@@ -4,5 +4,5 @@
 
 ## Links
 
-- [Repo](https://github.com/Rohit19060/<project-name> "<project-name> Repo")
+- [Repo](https://github.com/kswelsh/<gameCodeShowcase> "<gameCodeShowcase> Repo")
 ![kswelsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kswelsh&count_private=true)
