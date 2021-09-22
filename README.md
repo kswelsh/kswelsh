@@ -8,10 +8,10 @@
 [gameCodeShowcase Repo](https://github.com/kswelsh/gameCodeShowcase "gameCodeShowcase Repo") <br />
 A small game to showcase C++ skills and object oriented programming. <br />
 
-[gameCodeShowcase Repo](https://github.com/kswelsh/gameCodeShowcase "gameCodeShowcase Repo") <br />
+[compilerAssignmentPartOne Repo](https://github.com/kswelsh/compilerAssignmentPartOne "compilerAssignmentPartOne Repo") <br />
 A small game to showcase C++ skills and object oriented programming. <br />
 
-[gameCodeShowcase Repo](https://github.com/kswelsh/gameCodeShowcase "gameCodeShowcase Repo") <br />
+[compilerAssignmentPartTwo Repo](https://github.com/kswelsh/compilerAssignmentPartTwo "compilerAssignmentPartTwo Repo") <br />
 A small game to showcase C++ skills and object oriented programming. <br />
   
 ## Stats
