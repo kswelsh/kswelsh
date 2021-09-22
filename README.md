@@ -62,11 +62,7 @@ For running the server file on you can use this command.
 
 ## Author
 
-**Rohit Jain**
-
-- [Profile](https://github.com/rohit19060 "Rohit jain")
-- [Email](mailto:rohitjain19060@gmail.com?subject=Hi "Hi!")
-- [Website](https://kingtechnologies.in "Welcome")
+[![kswelsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kswelsh)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🤝 Support
 
