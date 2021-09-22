@@ -3,7 +3,7 @@
 <p align="center">North Central College</p>
 About Me <br />
 :clipboard: Senior at North Central College <br />
-- Intrested in Data Science, Database Systems, and Mobile App Development <br />
+:bar_chart: Intrested in Data Science, Database Systems, and Mobile App Development <br />
 - Primarly codes in C++/C <br />
 
 
