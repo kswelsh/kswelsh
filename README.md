@@ -17,5 +17,5 @@ A simulated lexical analyzer, which can also be known as the scanner. <br />
 A simulated syntax analyzer. <br />
   
 ## Stats
-![kswelsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kswelsh&count_private=true) <br />
+![kswelsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kswelsh) <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kswelsh)](https://github.com/anuraghazra/github-readme-stats)
