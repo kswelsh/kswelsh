@@ -7,7 +7,7 @@
 :computer: Primarly codes in C++/C <br />
 :clipboard: High-school ultimate frisbee coach <br />
 
-## Links
+## Links to Repositories
 [gameCodeShowcase](https://github.com/kswelsh/gameCodeShowcase "gameCodeShowcase Repo") <br />
 A small game to showcase C++ skills and object oriented programming. <br />
 [compilerAssignmentPartOne](https://github.com/kswelsh/compilerAssignmentPartOne "compilerAssignmentPartOne Repo") <br />
