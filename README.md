@@ -17,3 +17,4 @@ A simulated syntax analyzer. <br />
   
 ## Stats
 ![kswelsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kswelsh&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kswelsh)](https://github.com/anuraghazra/github-readme-stats)
