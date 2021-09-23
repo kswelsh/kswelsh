@@ -6,7 +6,6 @@
 :bar_chart: Intrested in data science, database systems, and mobile app development <br />
 :computer: Primarly codes in C++/C <br />
 :clipboard: High-school ultimate frisbee coach <br />
-:sunny: Problem solver <br />
 :speaker: Effective and efficient leader and communicator <br />
 
 ## Links to Repositories
