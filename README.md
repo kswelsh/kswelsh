@@ -1,5 +1,5 @@
 <h1 align="center">Kyle S. Welsh</h1>
-<p align="center">North Central College</p>
+<p align="center">North Central College - Computer Science Major</p>
 
 ## About Me
 :books: Senior at North Central College <br />
