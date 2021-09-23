@@ -3,7 +3,7 @@
 
 ## About Me
 :books: Senior at North Central College <br />
-:bar_chart: Intrested in Data Science, Database Systems, and Mobile App Development <br />
+:bar_chart: Intrested in data science, database systems, and mobile app development <br />
 :computer: Primarly codes in C++/C <br />
 :clipboard: High-school ultimate frisbee coach <br />
 
