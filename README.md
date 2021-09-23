@@ -8,7 +8,7 @@
 :clipboard: High-school ultimate frisbee coach <br />
 :speaker: Effective and efficient leader and communicator <br />
 
-## Links to Repositories
+## Links to Popular Repositories
 [gameCodeShowcase](https://github.com/kswelsh/gameCodeShowcase "gameCodeShowcase Repo") <br />
 A small game to showcase C++ skills and object oriented programming. <br />
 [compilerAssignmentPartOne](https://github.com/kswelsh/compilerAssignmentPartOne "compilerAssignmentPartOne Repo") <br />
