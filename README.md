@@ -5,7 +5,7 @@
 :books: Senior at North Central College <br />
 :bar_chart: Intrested in Data Science, Database Systems, and Mobile App Development <br />
 :computer: Primarly codes in C++/C <br />
-:computer: Primarly codes in C++/C <br />
+:clipboard: High-school ultimate frisbee coach <br />
 
 ## Links
 [gameCodeShowcase](https://github.com/kswelsh/gameCodeShowcase "gameCodeShowcase Repo") <br />
