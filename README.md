@@ -21,4 +21,3 @@ A simulated syntax analyzer. <br />
 ## Stats
 [![kswelsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kswelsh)](https://github.com/kswelsh/github-readme-stats) <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kswelsh)](https://github.com/anuraghazra/github-readme-stats)
-https://github.com/kswelsh/discordWeatherBot
