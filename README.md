@@ -9,6 +9,8 @@
 :speaker: Effective and efficient leader and communicator <br />
 
 ## Links to Popular Repositories
+[ghostKey](https://github.com/kswelsh/ghostKey "ghostkey Repo") <br />
+A password obtaining Linux kernel module. <br />
 [gameCodeShowcase](https://github.com/kswelsh/gameCodeShowcase "gameCodeShowcase Repo") <br />
 A small game to showcase C++ skills and object oriented programming. <br />
 [compilerAssignmentPartOne](https://github.com/kswelsh/compilerAssignmentPartOne "compilerAssignmentPartOne Repo") <br />
