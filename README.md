@@ -8,7 +8,7 @@
 :clipboard: High-school ultimate frisbee coach <br />
 :speaker: Effective and efficient leader and communicator <br />
 
-## Links to Popular Repositories
+## Links to Valued Repositories
 [ghostKey](https://github.com/kswelsh/ghostKey "ghostkey Repo") <br />
 A password obtaining Linux kernel module. <br />
 [LinuxProgramming](https://github.com/kswelsh/CSCE327 "CSCE327 Repo") <br />
