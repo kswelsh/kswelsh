@@ -11,6 +11,8 @@
 ## Links to Popular Repositories
 [ghostKey](https://github.com/kswelsh/ghostKey "ghostkey Repo") <br />
 A password obtaining Linux kernel module. <br />
+[LinuxProgramming](https://github.com/kswelsh/CSCE327 "CSCE327 Repo") <br />
+A collection of smaller programs that showcase aspects of Linux and C programming. <br />
 [gameCodeShowcase](https://github.com/kswelsh/gameCodeShowcase "gameCodeShowcase Repo") <br />
 A small game to showcase C++ skills and object oriented programming. <br />
 [compilerAssignmentPartOne](https://github.com/kswelsh/compilerAssignmentPartOne "compilerAssignmentPartOne Repo") <br />
